@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-10-25T11:29:54.000Z</updated>
+  <updated>2016-10-25T11:36:40.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2016/10/25/indexbox/"/>
     <id>http://yoursite.com/2016/10/25/indexbox/</id>
     <published>2016-10-25T11:00:03.000Z</published>
-    <updated>2016-10-25T11:29:54.000Z</updated>
+    <updated>2016-10-25T11:36:40.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>所有的技术文章应该有一个统一入口,而这个入口就是 IndexBox </p>
@@ -67,6 +67,7 @@
 <h2 id="Git-地址"><a href="#Git-地址" class="headerlink" title="Git  地址"></a>Git  地址</h2><p><a href="https://github.com/liukaining/indexbox2016" target="_blank" rel="external">indexbox</a></p>
 <h2 id="项目排期"><a href="#项目排期" class="headerlink" title="项目排期"></a>项目排期</h2><p>由于每天都有工作上的任务,并且还需要温习 Go 语言的知识,因此时间可能会比较长,但是最终的时间不会超过 2016 年 12 月 31 日。</p>
 <p>我会每天抽出 2 小时的时间去投入到 Indexbox 的开发中去。</p>
+<p>同时,我会在开发这个项目的过程中,介绍一些 beego 框架和 Go 语言相关的内容,权当技术技术笔记,有兴趣的话可以多多关注。</p>
 <p><strong>希望这个项目能够真正帮助到有需要的人</strong></p>
 <hr>
 <p>liukaining</p>
