@@ -4,8 +4,30 @@
 
     
   <url>
+    <loc>http://yoursite.com/2016/10/25/indexbox/</loc>
+    <lastmod>2016-10-25T11:29:54.000Z</lastmod>
+    <data>
+        <display>
+        <title>indexbox</title>
+        <pubTime>2016-10-25T11:00:03.000Z</pubTime>
+        
+        <tag>indexbox</tag>
+         
+        <tag>Go</tag>
+         
+         
+           
+             
+              <breadCrumb title="indexbox" url="http://yoursite.com/categories/indexbox/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2016/10/19/hello-hexo/</loc>
-    <lastmod>2016-10-21T12:41:53.000Z</lastmod>
+    <lastmod>2016-10-25T11:24:14.000Z</lastmod>
     <data>
         <display>
         <title>hello hexo</title>
@@ -15,6 +37,9 @@
          
          
            
+             
+              <breadCrumb title="hexo" url="http://yoursite.com/categories/hexo/"/>
+          
         </display>
     </data>
     </url>
